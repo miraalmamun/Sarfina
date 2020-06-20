@@ -1,4 +1,4 @@
-package com.sarfina.mir.com.sarfina.mir;
+package com.sarfina;
 
 public class Hello {
 

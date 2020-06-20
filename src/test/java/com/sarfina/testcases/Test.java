@@ -1,4 +1,4 @@
-package com.sarfina.mir.com.sarfina.testcases;
+package com.sarfina.testcases;
 
 public class Test {
 
