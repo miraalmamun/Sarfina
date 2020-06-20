@@ -8,6 +8,7 @@ public class Hello {
 		
 		System.out.println("Hello");
 		System.out.println("This is just test");
+		System.out.println("Adding new code");
 
 	}
 
